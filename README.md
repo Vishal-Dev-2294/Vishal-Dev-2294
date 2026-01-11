@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My StaTs :</h3>
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Vishal-Dev-2294&theme=dark&hide_border=false)<br/>
