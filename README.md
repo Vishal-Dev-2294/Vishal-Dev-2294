@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from India<br><br>- 🔭 I’m pursuing my degree<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I look other's works and try to learn new things</p>
+<p align="left">I'm ... from India<br><br>- 🔭 I’m pursuing my degree<br>- 📚 I'm currently learning java for backend<br>- ⚡ In my free time I look other's works and try to learn new things</p>
 
 ###
 
